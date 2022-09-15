@@ -1,0 +1,1 @@
+https://caelum-online-public.s3.amazonaws.com/1927-powerbi-tratando-dados-powerquery/olist_products_dataset.json
